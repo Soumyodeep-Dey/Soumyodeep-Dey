@@ -10,6 +10,6 @@ Enthusiastic 3rd-year B.E. Computer Science student with practical experience in
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Node.js & DSA in C++
 - 👯 I’m looking to collaborate on any project in MERN
-- 📫 How to reach me: Visit my [portfolio](https://soumyodeep-dey.vercel.app/) or soumyodeepdey2003@gmail.com or 91+9836545284
+- 📫 How to reach me: Just visit my [portfolio](https://soumyodeep-dey.vercel.app/)
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I am a CS grad :) what's could be more funny than that?
