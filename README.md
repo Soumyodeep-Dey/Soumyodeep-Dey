@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Scholarship Project**
 
-- 🌱 I’m currently learning **Node.js & DSA in C++**
+- 🌱 I’m currently learning **WatchLy**
 
 - 👯 I’m looking to collaborate on **any project in MERN**
 
