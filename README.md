@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/soumyodeep2003" target="blank"><img src="https://img.shields.io/twitter/follow/soumyodeep2003?logo=twitter&style=for-the-badge" alt="soumyodeep2003" /></a> </p>
 
-- 🔭 I’m currently working on **Scholarship Project**
+- 🔭 I’m currently working on **Watchly**
 
-- 🌱 I’m currently learning **WatchLy**
+- 🌱 I’m currently learning **Node.js and DSA in C++**
 
 - 👯 I’m looking to collaborate on **any project in MERN**
 
