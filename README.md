@@ -1,7 +1,7 @@
  ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
  
 <h1 align="center">Hi 👋, I'm SOUMYODEEP DEY</h1>
-<h3 align="center">Enthusiastic 3rd-year CSE student with practical experience in Web Development, Market Research, Data Analysis, and team management. (Some of my codes can't be in public due to .env)</h3>
+<h3 align="center">Enthusiastic 3rd-year CSE student with practical experience in Web Development, Market Research, Data Analysis, and team management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyodeep-dey&label=Profile%20views&color=0e75b6&style=flat" alt="soumyodeep-dey" /> </p>
 
