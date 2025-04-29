@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view?usp=drive_link](https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view](https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
