@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **any project in MERN**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://soumyodeep-dey.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://soumyodeep-dey.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Soumyodeep09](https://hashnode.com/@Soumyodeep09)
+- 📝 I regularly write articles on [My Hashnode Profile](https://hashnode.com/@Soumyodeep09)
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view](https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
