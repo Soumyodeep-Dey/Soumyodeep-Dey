@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any project in MERN**
 
-- 👨‍💻 All of my projects are available at [https://soumyodeep-dey.vercel.app/](https://soumyodeep-dey.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soumyodeep-dey.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Soumyodeep09](https://hashnode.com/@Soumyodeep09)
 
