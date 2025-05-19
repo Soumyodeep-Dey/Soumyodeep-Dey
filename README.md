@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://soumyodeep-dey.vercel.app/)
 
-- 📝 I regularly write articles on [My Hashnode Profile](https://hashnode.com/@Soumyodeep09)
+- 📝 I regularly write articles on [My Dev.to Profile](https://dev.to/soumyodeep_dey_c6cb5e8c97)
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
