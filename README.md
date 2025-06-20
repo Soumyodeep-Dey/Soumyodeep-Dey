@@ -1,7 +1,12 @@
  ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
  
 <h1 align="center">Hi 👋, I'm SOUMYODEEP DEY</h1>
-<h3 align="center">Enthusiastic 3rd-year CSE student with practical experience in Web Development, Market Research, Data Analysis, and team management.</h3>
+<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development,
+ content writing, market research, and data analysis. Adept at creating intuitive, engaging, and scalable web applications
+ using modern web frameworks and software engineering principles. Successfully led a six-member software development
+ team in Smart India Hackathon 2024, implementing Agile methodology and complete development lifecycle. Seeking
+ Software Development internship to leverage expertise in modern web technologies, coding best practices, and team
+ leadership in software engineering projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyodeep-dey&label=Profile%20views&color=0e75b6&style=flat" alt="soumyodeep-dey" /> </p>
 
