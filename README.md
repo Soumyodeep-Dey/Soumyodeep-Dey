@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1fHSCn7OesX4uDFF9IHBtAWqbDz5OVndW/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1lsb7AEJvTWN1-5rCGp6v6LLAVjR7kZDQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
