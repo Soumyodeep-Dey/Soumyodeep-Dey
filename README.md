@@ -1,7 +1,7 @@
  ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
  
 <h1 align="center">Hi 👋, I'm SOUMYODEEP DEY</h1>
-<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development, app development
+<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development, app development, 
  content writing, market research, and data analysis. Adept at creating intuitive, engaging, and scalable web applications
  using modern web frameworks and software engineering principles.</h3>
 
