@@ -1,7 +1,7 @@
  ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
  
 <h1 align="center">Hi 👋, I'm SOUMYODEEP DEY</h1>
-<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development,
+<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development, app development
  content writing, market research, and data analysis. Adept at creating intuitive, engaging, and scalable web applications
  using modern web frameworks and software engineering principles.</h3>
 
@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on **Watchly**
 
-- 🌱 I’m currently learning **Next.js and DSA in C++**
+- 🌱 I’m currently learning **Gen AI and DSA**
 
 - 👯 I’m looking to collaborate on **any project in MERN**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://soumyodeep-dey.vercel.app/)
 
-- 📝 I regularly write articles on [My Dev.to Profile](https://dev.to/soumyodeep_dey_c6cb5e8c97)
+- 📝 I write articles on [My Dev.to Profile](https://dev.to/soumyodeep_dey_c6cb5e8c97) or  [My Hashnode Profile](https://hashnode.com/@Soumyodeep09)
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1lsb7AEJvTWN1-5rCGp6v6LLAVjR7kZDQ/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/13L7xcvCKUNyVpLUsQqoXM--rYjaaqRae/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
