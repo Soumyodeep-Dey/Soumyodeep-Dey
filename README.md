@@ -1,55 +1,302 @@
- ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
- 
-<h1 align="center">Hi 👋, I'm SOUMYODEEP DEY</h1>
-<h3 align="center"> Final year Computer Science Engineering student with hands-on experience in software development, web development, app development, 
- content writing, market research, and data analysis. Adept at creating intuitive, engaging, and scalable web applications
- using modern web frameworks and software engineering principles.</h3>
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyodeep-dey&label=Profile%20views&color=0e75b6&style=flat" alt="soumyodeep-dey" /> </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng814/giphy.gif" width="28px"/> 
+  Hi, I'm Soumyodeep Dey
+</h1>
 
-<p align="left"> <a href="https://twitter.com/soumyodeep2003" target="blank"><img src="https://img.shields.io/twitter/follow/soumyodeep2003?logo=twitter&style=for-the-badge" alt="soumyodeep2003" /></a> </p>
+<h3 align="center">💻 Full Stack Developer | 🤖 Gen AI Enthusiast | 🚀 Building Scalable Web Solutions</h3>
 
-- 🔭 I’m currently working on **Ghar Nishchit**
-
-- 🌱 I’m currently learning **Gen AI and DSA**
-
-- 👯 I’m looking to collaborate on **Full Stack , Gen AI Projects**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://soumyodeep-dey.vercel.app/)
-
-- 📝 I write articles on [My Dev.to Profile](https://dev.to/soumyodeep_dey_c6cb5e8c97) or  [My Hashnode Profile](https://hashnode.com/@Soumyodeep09)
-
-- 📫 How to reach me **soumyodeepdey2003@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1rOSFaNpurMmBQqmWk67-JE-6rTJdQ5v6/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/soumyodeep_dey_c6cb5e8c97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soumyodeep_dey_c6cb5e8c97" height="30" width="40" /></a>
-<a href="https://twitter.com/soumyodeep2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyodeep2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumyodeep-dey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyodeep-dey-s-d-2a125b1a7/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumyodeep_dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyodeep_dey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@soumyodeepdey8070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumyodeepdey8070" height="30" width="40" /></a>
-<a href="https://instagram.com/soumyodeepdey_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyodeepdey_official" height="30" width="40" /></a>
-<a href="https://hashnode.com/@soumyodeep09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@soumyodeep09" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/soumyodeend30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soumyodeend30" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Final+Year+CS+Engineering+Student;Full+Stack+Developer;Gen+AI+%26+RAG+Pipeline+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumyodeep-dey&label=Profile%20Views&color=00B4D8&style=flat-square" alt="Profile Views" />
+  <a href="https://twitter.com/soumyodeep2003" target="blank">
+    <img src="https://img.shields.io/twitter/follow/soumyodeep2003?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/soumyodeep-dey/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+---
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## 🎯 About Me
+
+A passionate **Final Year Computer Science student** with hands-on experience in:
+- 🌐 **Web Development** — Building modern, responsive applications
+- 📱 **App Development** — Cross-platform solutions with React Native
+- 🤖 **Gen AI & RAG Pipelines** — LLM integration and intelligent systems
+- 💡 **Full Stack Engineering** — From frontend magic to backend scalability
+- ✍️ **Technical Writing** — Sharing knowledge on Dev.to & Hashnode
+
+> *I believe in writing clean code, solving real problems, and learning something new every day.*
+
+---
+
+## 🚀 What I'm Currently Working On
+
+| 🔭 **Active** | 🌱 **Learning** | 👯 **Collaborating On** |
+|---|---|---|
+| **Ghar Nishchit** Project | Gen AI & Advanced DSA | Full Stack & Gen AI Projects |
+
+---
+
+## 💼 Professional Experience
+
+*Roles and projects that shaped my development journey*
+
+### 🎯 Team Lead
+**Final Year Project & Smart India Hackathon 2024**  
+*Sep 2024 - Present*
+
+- Currently leading final year project team
+- Previously led 6-person Agile team for SIH 2024
+- Managed sprint planning, code reviews, and delivery timelines
+
+### 💻 Software Development Intern
+**Cenvexa**  
+*Aug 2025 - Oct 2025 · Remote & Kolkata*
+
+- Built React/React Native features that shipped weekly
+- Improved onboarding flow; time-to-complete down ~20%
+- Contributed to 30% of codebase using modern frameworks
+- Collaborated with 5+ developers in an Agile environment
+
+### 📝 Web Content Writer Intern
+**NaukriSafar**  
+*Jan 2025 - Mar 2025 · Remote*
+
+- Shipped 100+ SEO-first job blogs (avg score 70+)
+- Lifted organic reach ~40% using on-page best practices
+- Researched market trends and industry insights for content strategy
+
+### 🔬 Research Intern
+**DrMudhiwalla & The We Foundation**  
+*Nov 2023 - Aug 2024 · Remote & Kolkata*
+
+- Analyzed 35+ market reports; distilled insights for clients
+- Raised engagement ~25% with concise visual summaries
+- Created data visualizations and strategic recommendations
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<details open>
+<summary><b>🎨 Web & UI</b></summary>
+
+| Skill | Technologies |
+|-------|--------------|
+| **Frontend Frameworks** | React, Next.js |
+| **Styling** | Tailwind CSS, CSS3 |
+| **Type Safety** | TypeScript |
+| **Animations & UX** | Framer Motion, animations & micro-interactions |
+
+<p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+
+| Skill | Technologies |
+|-------|--------------|
+| **Runtime & Frameworks** | Node.js, Express.js |
+| **APIs** | REST APIs, API design & optimization |
+| **Databases** | MongoDB, PostgreSQL, SQL fundamentals |
+| **Security & Performance** | JWT authentication, performance optimization |
+
+<p>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 GenAI & LLMs</b></summary>
+
+| Skill | Technologies |
+|-------|--------------|
+| **RAG & Pipelines** | LangChain, vector databases |
+| **Vector Databases** | Qdrant, semantic search |
+| **AI Agents** | Agent frameworks, tool calling, MCP |
+| **LLM Providers** | OpenAI, Anthropic, fine-tuning |
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-00A651?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4A90?style=for-the-badge&logo=python&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Anthropic-7D4E57?style=for-the-badge&logo=python&logoColor=white" alt="Anthropic"/>
+</p>
+</details>
+
+<details open>
+<summary><b>📦 Delivery & DevOps</b></summary>
+
+| Skill | Technologies |
+|-------|--------------|
+| **Version Control** | Git, GitHub |
+| **CI/CD** | GitHub Actions, automated deployments |
+| **Testing** | Unit testing, debugging, quality assurance |
+| **Teamwork** | Agile, Scrum, collaborative development |
+
+<p>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumyodeep-dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyodeep-dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎓 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Context Bot</h3>
+      <p><strong>RAG Pipeline for Intelligent Chat</strong></p>
+      <p>Next.js • OpenAI • Qdrant • PDF Processing</p>
+      <p>Context-aware chatbot that processes PDFs and websites to provide intelligent responses. Improved user retention through smart document handling.</p>
+    </td>
+    <td width="50%">
+      <h3>🎭 Persona AI</h3>
+      <p><strong>AI Tone Replication Engine</strong></p>
+      <p>React • Vite • OpenAI • Fine-tuning</p>
+      <p>Mimics unique writing styles of tech influencers through reference content analysis. Showcase of advanced prompt engineering.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ Watchly</h3>
+      <p><strong>Scalable E-Commerce Platform</strong></p>
+      <p>MERN Stack • JWT • Framer Motion</p>
+      <p>Full-stack e-commerce with advanced categorization, wishlists, and smooth animations. Production-ready architecture.</p>
+    </td>
+    <td width="50%">
+      <h3>💎 BeautyMatch</h3>
+      <p><strong>Chrome Extension for Product Matching</strong></p>
+      <p>JavaScript • Client-side Processing • Privacy-First</p>
+      <p>&lt;200ms response time with zero data storage. Demonstrates efficient client-side computation.</p>
+    </td>
+  </tr>
+</table>
+
+**[View All Projects →](https://soumyodeep-dey.vercel.app/)**
+
+---
+
+## 📚 Latest Blog Posts
+
+- ✍️ Writing technical deep-dives on [Dev.to](https://dev.to/soumyodeep_dey_c6cb5e8c97)
+- 📖 Sharing insights on [Hashnode](https://hashnode.com/@soumyodeep09)
+- 🎬 Building tutorials on [YouTube](https://www.youtube.com/@soumyodeepdey8070)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://soumyodeep-dey.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/soumyodeep-dey/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/soumyodeep2003" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:soumyodeepdey2003@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.youtube.com/@soumyodeepdey8070" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/soumyodeep_dey_c6cb5e8c97" target="blank">
+    <img src="https://img.shields.io/badge/Dev.to-Read%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://hashnode.com/@soumyodeep09" target="blank">
+    <img src="https://img.shields.io/badge/Hashnode-Read%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+  <a href="https://www.leetcode.com/soumyodeep_dey" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/soumyodeepdey_official" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 📄 Quick Links
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1rOSFaNpurMmBQqmWk67-JE-6rTJdQ5v6/view?usp=sharing" target="blank">
+    <img src="https://img.shields.io/badge/📥%20Download%20Resume-4A90E2?style=for-the-badge" alt="Resume"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QaMcXK7nWHwI0KjGnG/giphy.gif" width="40px"/>
+  <br/>
+  <i>"Building the future, one line of code at a time"</i>
+  <br/>
+  <img src="https://media.giphy.com/media/QaMcXK7nWHwI0KjGnG/giphy.gif" width="40px"/>
+</p>
+
+<p align="center">
+  Made with ❤️ by Soumyodeep Dey
 </p>
 
