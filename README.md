@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/soumyodeep2003" target="blank"><img src="https://img.shields.io/twitter/follow/soumyodeep2003?logo=twitter&style=for-the-badge" alt="soumyodeep2003" /></a> </p>
 
-- 🔭 I’m currently working on **Watchly**
+- 🔭 I’m currently working on **Ghar Nishchit**
 
 - 🌱 I’m currently learning **Gen AI and DSA**
 
-- 👯 I’m looking to collaborate on **any project in MERN**
+- 👯 I’m looking to collaborate on **Full Stack , Gen AI Projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://soumyodeep-dey.vercel.app/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **soumyodeepdey2003@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/13L7xcvCKUNyVpLUsQqoXM--rYjaaqRae/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1rOSFaNpurMmBQqmWk67-JE-6rTJdQ5v6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
