@@ -46,40 +46,27 @@ A passionate **Final Year Computer Science student** with hands-on experience in
 
 ## 💼 Professional Experience
 
-*Roles and projects that shaped my development journey*
+### 🎯 Team Lead | Final Year Project & Previously SIH 2024
+**Sep 2024 - Present**
 
-### 🎯 Team Lead
-**Final Year Project & Smart India Hackathon 2024**  
-*Sep 2024 - Present*
+Leading development teams through Agile sprints, code reviews, and delivery timelines. Previously managed 6-person team for Smart India Hackathon 2024.
 
-- Currently leading final year project team
-- Previously led 6-person Agile team for SIH 2024
-- Managed sprint planning, code reviews, and delivery timelines
+### 💻 Software Development Intern | Cenvexa
+**Aug 2024 - Oct 2024 · Remote & Kolkata**
 
-### 💻 Software Development Intern
-**Cenvexa**  
-*Aug 2025 - Oct 2025 · Remote & Kolkata*
+Built React/React Native features with weekly deployments. Optimized onboarding flow (↓20% completion time) and contributed to 30% of production codebase.
 
-- Built React/React Native features that shipped weekly
-- Improved onboarding flow; time-to-complete down ~20%
-- Contributed to 30% of codebase using modern frameworks
-- Collaborated with 5+ developers in an Agile environment
+### 📝 Web Content Writer Intern | NaukriSafar
+**Jan 2025 - Mar 2025 · Remote**
 
-### 📝 Web Content Writer Intern
-**NaukriSafar**  
-*Jan 2025 - Mar 2025 · Remote*
+Delivered 100+ SEO-optimized job blogs (avg score 70+), driving 40% increase in organic reach through data-driven content strategy.
 
-- Shipped 100+ SEO-first job blogs (avg score 70+)
-- Lifted organic reach ~40% using on-page best practices
-- Researched market trends and industry insights for content strategy
+### 🔬 Research Intern | DrMudhiwalla & The We Foundation
+**Nov 2023 - Aug 2024 · Remote & Kolkata**
 
-### 🔬 Research Intern
-**DrMudhiwalla & The We Foundation**  
-*Nov 2023 - Aug 2024 · Remote & Kolkata*
+Analyzed 35+ market reports and created strategic visualizations, boosting client engagement by 25% through clear, actionable insights.
 
-- Analyzed 35+ market reports; distilled insights for clients
-- Raised engagement ~25% with concise visual summaries
-- Created data visualizations and strategic recommendations
+---
 
 ---
 
@@ -190,12 +177,12 @@ A passionate **Final Year Computer Science student** with hands-on experience in
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumyodeep-Dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyodeep-Dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soumyodeep-Dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyodeep-Dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyodeep-Dey&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F0F6FC&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Soumyodeep-Dey&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
