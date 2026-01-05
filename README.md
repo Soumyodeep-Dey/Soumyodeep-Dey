@@ -1,11 +1,11 @@
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/user-attachments/assets/22792a9a-39be-4b51-9f0e-73ffb50edd98)
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/Soumyodeep-Dey/Soumyodeep-Dey/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng814/giphy.gif" width="28px"/> 
   Hi, I'm Soumyodeep Dey
 </h1>
 
-<h3 align="center">💻 Full Stack Developer | 🤖 Gen AI Enthusiast | 🚀 Building Scalable Web Solutions</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 Learning Gen AI  | 🚀 Building Scalable Web Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Final+Year+CS+Engineering+Student;Full+Stack+Developer;Gen+AI+%26+RAG+Pipeline+Explorer;Open+Source+Contributor" alt="Typing SVG" />
