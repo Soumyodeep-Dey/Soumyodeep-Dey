@@ -190,8 +190,12 @@ A passionate **Final Year Computer Science student** with hands-on experience in
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumyodeep-dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyodeep-dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumyodeep-Dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyodeep-Dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyodeep-Dey&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F0F6FC&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -199,34 +203,22 @@ A passionate **Final Year Computer Science student** with hands-on experience in
 ## 🎓 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Context Bot</h3>
-      <p><strong>RAG Pipeline for Intelligent Chat</strong></p>
-      <p>Next.js • OpenAI • Qdrant • PDF Processing</p>
-      <p>Context-aware chatbot that processes PDFs and websites to provide intelligent responses. Improved user retention through smart document handling.</p>
-    </td>
-    <td width="50%">
-      <h3>🎭 Persona AI</h3>
-      <p><strong>AI Tone Replication Engine</strong></p>
-      <p>React • Vite • OpenAI • Fine-tuning</p>
-      <p>Mimics unique writing styles of tech influencers through reference content analysis. Showcase of advanced prompt engineering.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛍️ Watchly</h3>
-      <p><strong>Scalable E-Commerce Platform</strong></p>
-      <p>MERN Stack • JWT • Framer Motion</p>
-      <p>Full-stack e-commerce with advanced categorization, wishlists, and smooth animations. Production-ready architecture.</p>
-    </td>
-    <td width="50%">
-      <h3>💎 BeautyMatch</h3>
-      <p><strong>Chrome Extension for Product Matching</strong></p>
-      <p>JavaScript • Client-side Processing • Privacy-First</p>
-      <p>&lt;200ms response time with zero data storage. Demonstrates efficient client-side computation.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<h3>🏠 Ghar Nishchit</h3>
+<p><strong>Property Rental Management Platform</strong></p>
+<p><em>MERN Stack • Firebase • Tailwind CSS • Recharts</em></p>
+<p>Full-stack rental platform designed for emerging urban India, connecting landlords with tenants through a simple, transparent interface. Features intelligent property search, real-time maintenance tracking, secure authentication, direct messaging, and comprehensive analytics dashboards. Built with a local-first strategy targeting Tier-2 and Tier-3 cities.</p>
+<p>🎯 <strong>Key Impact:</strong> Simplifying rental ecosystem for underserved markets with minimal steps and regional focus.</p>
+</td>
+<td width="50%">
+<h3>🤖 Context Bot</h3>
+<p><strong>RAG Pipeline for Intelligent Chat</strong></p>
+<p><em>Next.js • OpenAI • Qdrant • PDF Processing</em></p>
+<p>Advanced context-aware chatbot leveraging Retrieval-Augmented Generation (RAG) to process PDFs and websites, delivering intelligent, source-grounded responses. Implements vector embeddings for semantic search and maintains conversation context for coherent multi-turn interactions.</p>
+<p>🎯 <strong>Key Impact:</strong> Enhanced user retention through smart document handling and accurate, contextual responses.</p>
+</td>
+</tr>
 </table>
 
 **[View All Projects →](https://soumyodeep-dey.vercel.app/)**
