@@ -177,11 +177,12 @@ Analyzed 35+ market reports and created strategic visualizations, boosting clien
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soumyodeep-Dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyodeep-Dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soumyodeep-Dey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyodeep-Dey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyodeep-Dey&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyodeep-Dey&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC" alt="GitHub Activity Graph"/>
 </p>
 
 ---
