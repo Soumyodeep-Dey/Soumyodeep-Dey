@@ -244,7 +244,7 @@ Analyzed 35+ market reports and created strategic visualizations, boosting clien
   <a href="https://dev.to/soumyodeep_dey_c6cb5e8c97" target="blank">
     <img src="https://img.shields.io/badge/Dev.to-Read%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="[https://hashnode.com/@soumyodeep09](https://hashnode.com/@Soumyodeep09)" target="blank">
+  <a href="https://hashnode.com/@soumyodeep09" target="blank">
     <img src="https://img.shields.io/badge/Hashnode-Read%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
   <a href="https://www.leetcode.com/soumyodeep_dey" target="blank">
