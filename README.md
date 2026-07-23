@@ -5,7 +5,7 @@
   Hi, I'm Soumyodeep Dey
 </h1>
 
-<h3 align="center">💻 Full Stack Developer | 🤖 Learning Gen AI  | 🚀 Building Scalable Web Solutions</h3>
+<h3 align="center"> AI Engineer | Software Engineer | Cybersecurity </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Final+Year+CS+Engineering+Student;Full+Stack+Developer;Gen+AI+%26+RAG+Pipeline+Explorer;Open+Source+Contributor" alt="Typing SVG" />
